@@ -1,6 +1,7 @@
 {
   "name": "dpark-website",
   "private": true,
+  "homepage": "https://mikecoderweb.github.io/Dipark",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
