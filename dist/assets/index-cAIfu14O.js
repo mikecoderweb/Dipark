@@ -923,3 +923,4 @@ Error generating stack: `+o.message+`
     right: 0;
   }
 `,Px=()=>x.jsxs(yx,{children:[x.jsx(Zh,{}),x.jsxs(wx,{children:[x.jsx(xx,{children:"Web & Grafik dizayn"}),x.jsx(Sx,{children:"Tajribangizni san'atga aylantiring!"}),x.jsxs(kx,{children:[x.jsx(La,{children:x.jsx(Ex,{children:"Ps"})}),x.jsx(La,{children:x.jsx(Cx,{children:"UX & UI"})}),x.jsx(La,{children:x.jsxs(Rx,{children:[x.jsx("div",{className:"circle circle1"}),x.jsx("div",{className:"circle circle2"}),x.jsx("div",{className:"circle circle3"}),x.jsx("div",{className:"circle circle4"})]})})]})]}),x.jsx(Ww,{}),x.jsx(Jw,{}),x.jsx(ax,{}),x.jsx(vx,{}),x.jsx(Jh,{}),x.jsx(em,{}),x.jsx(qh,{})]}),_x=sy([{path:"/",element:x.jsx(Fw,{})},{path:"/web-design",element:x.jsx(Px,{})}]);za.createRoot(document.getElementById("root")).render(x.jsx(mt.StrictMode,{children:x.jsx(vy,{router:_x})}));
+//# sourceMappingURL=index-cAIfu14O.js.map
